@@ -1,0 +1,20 @@
+﻿Authentication : Admin/Normal user - Abstraction, Overloading, Enums(different types of users) - Done
+
+Event Handlers: taking input from the keyboard and performing operations based on the input- like click 1 to Exit.
+
+Exception Handling : try to cover most on the Agent/Implementation part - DONE
+
+Loggers : Microsoft.Extensions.Logging to console into Debug folder using timestamp updated on daily basis. - Serilog - DONE
+
+Unit Testing : for the CRUD operations
+
+Async/Await: while calling the Db
+
+Comments: On every implementation method insert a snippet that will have summary, parameters and return type descriptio
+
+Users can access multiple operations: 
+- Courses (types/numbers/top elected course)
+- Users (total/ types(admin/normal))))
+
+Document structure:
+- Name_minorVersion_timestamp
